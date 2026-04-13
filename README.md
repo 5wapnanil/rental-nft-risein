@@ -34,8 +34,8 @@ The idea is to allow NFT owners to temporarily lend (rent) their NFTs to other u
 
 ## 🔗 Deployed Smart Contract Link
 
-XXX
-
+[link
+](https://stellar.expert/explorer/testnet/contract/CCYVBSI3JC6UQ66EFB2ICABG56U5PJFAAUVPCTQWT3KBDPZFBKLEDLGI)
 ---
 
 ## 🚀 Future Improvements
