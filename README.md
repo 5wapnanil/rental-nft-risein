@@ -1,4 +1,5 @@
 # 🏠 Rental NFT on Stellar (Soroban)
+<img width="1920" height="1020" alt="Screenshot 2026-04-13 133957" src="https://github.com/user-attachments/assets/3fb26e1d-1168-408e-aabc-ebdd5a016ade" />
 
 ## 📌 Project Description
 
